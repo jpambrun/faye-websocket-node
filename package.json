@@ -14,7 +14,7 @@
           },
           "main": "./lib/faye/websocket",
           "dependencies": {
-                    "websocket-driver": ">=0.5.1"
+                    "websocket-driver": "github:jpambrun/websocket-driver-node#jpambrun/fragmentation-experiment"
           },
           "devDependencies": {
                     "jstest": "*",
